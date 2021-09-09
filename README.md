@@ -1,2 +1,2 @@
-# java-coding-exercise
+# java-coding-exercise1
 Exercise in Innersource
